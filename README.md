@@ -38,3 +38,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/varun11192/varun11192/output/snake.svg" alt="Snake animation" />
+
+###
